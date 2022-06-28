@@ -3,6 +3,7 @@ using Microsoft.AspNetCore.Identity;
 using UserServiceModels;
 using UserServiceModels.Exceptions;
 using UserServiceRequestMessages;
+using UserServiceResponseMessages;
 
 namespace UserService.Consumers
 {
